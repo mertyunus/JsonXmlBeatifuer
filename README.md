@@ -35,7 +35,7 @@
 
 ## 📸 Ekran Görüntüsü / Demo
 
-> *Aşağıdaki alan, projenizi GitHub'da yayınladığınızda ekran görüntülerini ve GIF demolarını sergileyebileceğiniz şablondur.*
+> *3-Sütunlu çalışma alanıyla (Sol Girdi Editörü - Orta Aksiyon Paneli - Sağ Çıktı Editörü) maksimum geliştirici verimliliği ve ergonomi sağlar.*
 
 ```
 +----------------------------------------------------------------------------------------------------+
@@ -148,5 +148,5 @@ Bu proje tamamen açık kaynaktır ve her türlü katkıya (yeni özellikler, te
 Bu proje **MIT Lisansı** ile lisanslanmıştır. Daha fazla bilgi için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.
 
 <div align="center">
-  <p>Geliştirici: <a href="https://github.com/mertyunus"><b>mertyunus</b></a> ❤️ ile geliştirildi.</p>
+  <p><a href="https://github.com/mertyunus"><b>mertyunus</b></a> tarafından ❤️ ile geliştirildi.</p>
 </div>
